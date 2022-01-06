@@ -11,5 +11,5 @@ Special thanks to original author for making squid card:
 syko
 https://forum.cfx.re/t/free-squid-games-invite-card/4771689
 
-Items animation and prop made by me.
+
 
